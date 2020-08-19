@@ -1,0 +1,32 @@
+MA102,Mathematics II
+CS103,Data Structures
+CS111,Data Structures Lab
+CS104,Computer Organization
+EC103,Basic Electronic Circuits
+EC111,Basic Electronics Lab
+CS210,Formal Languages and Automata
+CS231,Operating Systems
+CS232,Operating Systems Lab
+CS235,Artificial Intelligence
+CS240,Database Management Systems
+CS241,DBMS Lab
+SC202,Chemistry
+MA204,Mathematics IV
+EC251,Principles of Communication
+EC252,Communications Lab
+EC243,Digital Signal Processing
+EC244,Digital Signal Processing Lab
+MA305,Optimization Techniques
+CS330,Software Engineering
+CS331,Software Engineering Lab
+CS320,Compilers
+CS321,Compilers Lab
+CS361,Computer Security
+EC353,Information Theory and Coding
+EC361,VLSI Design
+EC362,VLSI Design Lab
+EC371,Microwave Engineering
+EC372,Microwave Engineering Lab
+EC381,Embedded Systems
+EC382,Embedded Systems Lab
+SC302,Physics II

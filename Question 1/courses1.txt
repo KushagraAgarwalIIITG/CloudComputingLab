@@ -1,0 +1,31 @@
+MA101,Mathematics I
+CS101,Computer Programming
+CS110,Computer Programming Lab
+EC101,Digital Design
+EC110,Digital Design Lab
+EC102,Electrical Circuit Analysis
+HS101,English
+MA203,Mathematics III
+MA205,Discrete Mathematics
+CS201,Algorithms
+CS210,Algorithm Lab
+CS221,Data Communication
+CS202,IT Workshop I
+SC201,Physics I
+EC201,Analog Circuits
+EC260,Semiconductor Devices
+EC241,Signals and Systems
+EC281,Measurement and Instrumentation
+CS301,Theory of Computation
+CS352,Computer Networks
+CS353,Computer Networks Lab
+CS351,IT Workshop III: Cloud Computing
+CS306,Machine Learning
+CS316,Machine Learning Lab
+SC301,Biology
+EC351,Digital Communication
+EC352,Digital Communication Lab
+EC301,Analog Integrated Circuits
+EC302,Analog Integrated Circuit Lab
+EC370,Electromagnetics
+EC380,Control Systems
